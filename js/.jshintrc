@@ -1,10 +1,12 @@
 {
-    "validthis": true,
-    "laxcomma" : true,
-    "laxbreak" : true,
-    "browser"  : true,
-    "debug"    : true,
-    "boss"     : true,
-    "expr"     : true,
-    "asi"      : true
+  "asi"      : true,
+  "boss"     : true,
+  "browser"  : true,
+  "debug"    : true,
+  "devel"    : true,
+  "eqeqeq"   : false,
+  "eqnull"   : true,
+  "expr"     : true,
+  "laxbreak" : true,
+  "validthis": true
 }
